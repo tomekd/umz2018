@@ -102,4 +102,5 @@ ENV/
 
 # wiki
 umz2018.wiki/
+**/out.tsv
 
